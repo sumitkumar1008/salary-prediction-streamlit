@@ -5,8 +5,7 @@ This project uses Machine Learning models and is deployed as an interactive web 
 
 🚀 Live Demo
 
-👉 Add your Streamlit URL here after deployment
-https://your-streamlit-app-url.streamlit.app
+https://salary-prediction-app-3uxtwhfbs9qzqwsca7ossp.streamlit.app/
 
 📌 Project Description
 
