@@ -5,7 +5,7 @@ This project uses Machine Learning models and is deployed as an interactive web 
 
 🚀 Live Demo
 
-https://salary-prediction-app-3uxtwhfbs9qzqwsca7ossp.streamlit.app/
+https://salary-prediction-app-njz8xo8xxkyarnptefovqs.streamlit.app/
 
 📌 Project Description
 
