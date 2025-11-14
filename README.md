@@ -120,7 +120,7 @@ salary_prediction_streamlit/
 
 ▶️ Running the Project Locally
 1. Clone the repository
-git clone https://github.com/Ayush1344/salary_prediction_streamlit.git
+git clone https://github.com/sumitkumar1008/salary-prediction-streamlit
 
 2. Install dependencies
 pip install -r requirements.txt
